@@ -2699,6 +2699,7 @@ input, select, textarea {
 					line-height: 1.5;
 					margin-top: 0.35em;
 					opacity: 0;
+					text-shadow: 3px 3px 0px #111;
 				}
 
 					.tiles article > a .content > :last-child {
