@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Website</title>
+    <link>http://www.emrix.github.io</link>
+    <description>Latest updates from Your Website</description>
+    <language>en-us</language>
+    
+    <!-- First Article -->
+    <item>
+      <title>Article 1 Title</title>
+      <link>http://www.yourwebsite.com/article1</link>
+      <description>This is the content of the first article.</description>
+      <pubDate>Thu, 03 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Second Article -->
+    <item>
+      <title>Article 2 Title</title>
+      <link>http://www.yourwebsite.com/article2</link>
+      <description>This is the content of the second article.</description>
+      <pubDate>Fri, 04 Mar 2024 14:30:00 GMT</pubDate>
+    </item>
+    
+    <!-- Third Article -->
+    <item>
+      <title>Article 3 Title</title>
+      <link>http://www.yourwebsite.com/article3</link>
+      <description>This is the content of the third article.</description>
+      <pubDate>Sat, 05 Mar 2024 10:45:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
